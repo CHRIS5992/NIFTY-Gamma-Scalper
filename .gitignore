@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+test_backtest.py
+*.tmp
+
+# Data files (too large for GitHub — upload via sidebar)
+FINAL_NIFTY_MASTER_ATM.csv
+FINAL_NIFTY_MASTER_ATM_5min.csv
+data/*.csv
+
